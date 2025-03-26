@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "super-wildflower-b02e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9634aa45-ed35-4266-851b-02c15d5732de",
+      "database_name": "damp-field-354a-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
